@@ -67,7 +67,7 @@ crop-yield-prediction/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <(https://github.com/23211a6637/AI-BASED-CROP-YIELD-PREDICTION-AND-ADVISORY-SYSTEM-)>
 cd crop-yield-prediction
 ```
 
