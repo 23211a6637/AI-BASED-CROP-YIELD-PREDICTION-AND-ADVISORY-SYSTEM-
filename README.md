@@ -207,16 +207,3 @@ If you record a short demo video, link it from this section (e.g. Loom or YouTub
 - **Product:** Optional login, localization, and integration with real weather/soil APIs (with clear separation from model inputs).  
 - **Tests:** Unit tests for `advisory.py` and shape contracts on the dataset module.
 
----
-
-## 11. Author Details
-
-| | |
-|---|---|
-| **Author** | *[Your Name]* |
-| **Contact** | *[Your email or portfolio URL]* |
-| **License** | *[e.g. MIT — add a LICENSE file if applicable]* |
-
----
-
-*Built for learning and portfolio demonstration. Predictions and advice are illustrative; always validate agronomic decisions with local experts and field data.*
